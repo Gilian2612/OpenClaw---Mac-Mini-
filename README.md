@@ -28,14 +28,7 @@ AI-powered pipeline that finds local businesses with outdated websites, auto-gen
 
 ## Environment Variables
 ```bash
-ANTHROPIC_API_KEY=
-APIFY_API_KEY=
-INSTANTLY_API_KEY=
-TELEGRAM_BOT_TOKEN=
-TELEGRAM_CHAT_ID=
-VERCEL_TOKEN=
-UNSPLASH_ACCESS_KEY=
-```
+NONE , TRANSFER TO .env 
 
 ## Usage
 ```bash
